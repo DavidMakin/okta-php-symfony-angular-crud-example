@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: okta-php-symfony-angular-crud-example
+  annotations:
+    github.com/project-slug: DavidMakin/okta-php-symfony-angular-crud-example
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
